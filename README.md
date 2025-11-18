@@ -1,7 +1,9 @@
 # Mon Projet Netmiko
 # Initialiser un dépôt Git local
  mkdir hanine-ramdhane-netmiko
+ 
  cd hanine-ramdhane-netmiko
+ 
  git init
 
 # Ajouter et commiter des fichiers
